@@ -8,9 +8,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/baloo-da-2": "^4.5.0",
+    "axios": "^0.24.0",
+    "form-data": "^4.0.0",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "imagemin-svgo": "^10.0.0",
     "next": "12.0.3",
+    "next-optimized-images": "^2.6.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.19.1",
+    "theme-ui": "^0.12.0"
   },
   "devDependencies": {
     "eslint": "7.32.0",
